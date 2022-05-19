@@ -1,4 +1,4 @@
-# Data-Sructure-Lab-Assignment
+# Data-Structure-Lab-Assignment
 ## Done by :
 ## Name : Hemeka Rashid Hafsa
 ## Roll : BFH2011005F
